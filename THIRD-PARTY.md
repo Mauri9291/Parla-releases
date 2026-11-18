@@ -187,3 +187,15 @@ uncontaminated with licensed code from other projects.
 
 ## Tauri, cpal y demás crates de Rust (MIT / Apache-2.0)
 https://tauri.app · https://github.com/RustAudio/cpal
+
+## Twemoji (gráficos CC-BY 4.0, código MIT)
+https://github.com/jdecked/twemoji · paquete @twemoji/svg y @twemoji/parser
+
+Gráficos de emojis Copyright 2019 Twitter, Inc. y otros colaboradores,
+licenciados bajo CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+## emojibase-data (MIT)
+https://emojibase.dev · nombres y palabras clave de los emojis en español.
+
+## GIPHY
+Los GIFs se buscan con la API de GIPHY (Powered by GIPHY): https://giphy.com
